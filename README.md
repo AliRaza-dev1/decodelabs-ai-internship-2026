@@ -37,5 +37,4 @@ This repository contains all AI projects completed during the DecodeLabs Industr
 - Optical Character Recognition
 - Transfer Learning with Pre-trained Models
 
-## Contact
-DecodeLabs | decodelabs.tech@gmail.com | www.decodelabs.tech
+
